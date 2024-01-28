@@ -1,6 +1,6 @@
 # maven-multimodule 
 
-메이븐 멀티모듈 구현 테스트
+메이븐 멀티모듈 구현 테스트<br>
 여러개의 모듈을 가진 프로젝트를 빌드하면 라이브러리 모듈을 참조할 수 있는 하나의 Jar 파일을 Release 에 만들수 있다.
 
 main project<br>
